@@ -13,4 +13,4 @@
 3. run command **php artisan key:generate**
 4. change **.env.example to .env**
 5. configure **.env**
-6. run command php artisan migrate
+6. run command **php artisan migrate**
